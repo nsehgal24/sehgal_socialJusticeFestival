@@ -24,12 +24,14 @@ This project and its components utilize HTML and CSS for website development, co
 
 ## Acknowledgment
 
-Sea Shepherd Conservation Society
+#### Sea Shepherd Conservation Society
+
 <a href ="https://seashepherd.org/">Sea Shepherd Conservation Society</a>
+
+#### Images
 
 AI Photos created with Adobe Firefly
 
-Found Images
 <a href ="https://www.rocktheocean.com/grateful-web-tortuga-wins-sustainability-leadership-award/">Hero Image</a>
 
 <a href = "https://tortugamusicfestival.com/sustainability/">Hero Image</a>
@@ -38,7 +40,7 @@ Found Images
 
 <a href = "https://tortugamusicfestival.com/activities/">Hero Image</a>
 
-Mock-Up templates from Adobe Stock
+#### Mock-Up templates from Adobe Stock
 
 <a href = "https://stock.adobe.com/search/templates?k=t-shirt&search_type=recentsearch&asset_id=649944091">T-shirt</a>
 
@@ -48,7 +50,8 @@ Mock-Up templates from Adobe Stock
 
 <a href = "https://stock.adobe.com/search/templates?filters%5Bcontent_type%3Atemplate%5D=1&filters%5Bfetch_excluded_assets%5D=1&filters%5Binclude_stock_enterprise%5D=1&order=relevance&safe_search=1&limit=100&search_page=1&search_type=usertyped&acp=&aco=ticket+festival+wristband&k=ticket+festival+wristband&get_facets=0&asset_id=221900493">Wristband</a>
 
-Code Assistance
+#### Code Assistance
+
 <a href = "https://www.w3schools.com/">w3 Schools</a>
 
 Anna, student from previous semester
