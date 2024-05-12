@@ -36,6 +36,8 @@ Found Images
 
 <a href = "https://www.rocktheocean.com/the-conservation-village/"></a>
 
+<a href = "https://tortugamusicfestival.com/activities/"></a>
+
 Mock-Up templates from Adobe Stock
 
 <a href = "https://stock.adobe.com/search/templates?k=t-shirt&search_type=recentsearch&asset_id=649944091"></a>
@@ -48,4 +50,6 @@ Mock-Up templates from Adobe Stock
 
 Code Assistance
 <a href = "https://www.w3schools.com/"></a>
+
+Anna, student from previous semester
 
