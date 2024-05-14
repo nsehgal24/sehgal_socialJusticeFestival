@@ -50,9 +50,13 @@ AI Photos created with Adobe Firefly
 
 <a href = "https://stock.adobe.com/search/templates?filters%5Bcontent_type%3Atemplate%5D=1&filters%5Bfetch_excluded_assets%5D=1&filters%5Binclude_stock_enterprise%5D=1&order=relevance&safe_search=1&limit=100&search_page=1&search_type=usertyped&acp=&aco=ticket+festival+wristband&k=ticket+festival+wristband&get_facets=0&asset_id=221900493">Wristband</a>
 
+#### Icon Inspiration
+
+<a href = "https://www.figma.com/community/file/903830135544202908/phosphor-icons">Icons</a>
+
 #### Code Assistance
 
 <a href = "https://www.w3schools.com/">w3 Schools</a>
 
-Anna, student from previous semester
+Anna Pham, student from previous semester
 
