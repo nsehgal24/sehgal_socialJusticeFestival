@@ -19,7 +19,7 @@ body {
   animation-name: Appear ;
   animation-delay: none;
   animation-direction: alternate;
-  animation-duration: 3s;
+  animation-duration: 2s;
   animation-fill-mode: forwards;
   animation-iteration-count: once;
   animation-timing-function: ease-out;
@@ -780,7 +780,7 @@ h6 {
     font-size: 0.7em;
   }
 
-  .shoppingcart{
+  .shoppingcart {
     width: 100%;
   }
 
@@ -831,12 +831,12 @@ h6 {
     font-size: 1em;
   }
 
-  .wave9{
+  .wave9 {
     width: 80%;
     margin-top: -15%;
   }
 
-  .wave10{
+  .wave10 {
     width: 80%;
     margin-top: -80%;
   }
